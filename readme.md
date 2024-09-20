@@ -11,3 +11,9 @@ rmdir .git /s /q
 rmdir ".obsidian/plugins/.git" /s /q
 ```
 
+---
+notion web
+
+[notion web](https://drkw.notion.site/publish-1073ef436c8380fab597c46c519d3713)
+
+
